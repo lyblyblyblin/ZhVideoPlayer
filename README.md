@@ -40,10 +40,12 @@ Android视频播放器项目
 
 
 demo图片
-<img width="300" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-194606.png">
 
-<img width="300" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-194613.png"/>
 
-<img width="300" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-194627.png"/>
+<img width="600" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-194606.png">
 
-<img width="300" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-195233.png"/>
+<img width="600" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-194613.png"/>
+
+<img width="600" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-194627.png"/>
+
+<img width="600" height="450" src="https://github.com/lyblyblyblin/ZhVideoPlayer/blob/master/screenshots/Screenshot_20180329-195233.png"/>
