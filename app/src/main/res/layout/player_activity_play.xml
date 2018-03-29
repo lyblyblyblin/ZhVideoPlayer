@@ -7,9 +7,6 @@
     android:fitsSystemWindows="true"
     android:orientation="vertical" >
 
-    <include
-        android:id="@+id/titlebar"
-        layout="@layout/title_bar" />
 
     <include
         android:id="@+id/id_ViewLayout"
