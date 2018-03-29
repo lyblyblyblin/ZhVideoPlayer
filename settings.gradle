@@ -1,2 +1,0 @@
-include ':app', ':vitamio_lib'
-include ':pullToRefresh_library'
